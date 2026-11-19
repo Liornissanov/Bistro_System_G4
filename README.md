@@ -2,6 +2,20 @@
 
 A Java desktop application for restaurant reservations, waiting lists, and table management. Four software engineering students developed it as a semester project for course 61756, Methods for Software Development.
 
+## Screenshots
+
+| Subscriber login | Reservation menu |
+| --- | --- |
+| ![Subscriber login](./Assignment3/DOC/01-subscriber-login.png) | ![Reservation menu](./Assignment3/DOC/02-reservation-menu.png) |
+
+| Table check-in | Restaurant management |
+| --- | --- |
+| ![Table check-in](./Assignment3/DOC/03-table-check-in.png) | ![Restaurant management](./Assignment3/DOC/04-restaurant-management.png) |
+
+| Visit time report |
+| --- |
+| ![Visit time report](./Assignment3/DOC/05-visit-time-report.png) |
+
 ## What the system does
 
 | Workflow | Features |
