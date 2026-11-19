@@ -2,6 +2,16 @@
 
 A Java desktop application for restaurant reservations, waiting lists, and table management. Four software engineering students developed it as a semester project for course 61756, Methods for Software Development.
 
+## Tech Stack
+
+| Area | Technology and role |
+| --- | --- |
+| Frontend | JavaFX desktop client with FXML views |
+| Backend | Java server for reservations, waiting lists, tables, and reports |
+| Database | MySQL, initialized with the SQL script in `Assignment3/DB/` |
+| Communication | OCSF client–server messaging over TCP sockets |
+| Runtime | Java desktop client and server run as separate applications. Packaged JARs are included. |
+
 ## Screenshots
 
 | Subscriber login | Reservation menu |
