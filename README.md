@@ -38,6 +38,11 @@ A Java desktop application for restaurant reservations, waiting lists, and table
 
 The **JavaFX client** presents the workflows through FXML screens. It sends requests over **OCSF** to the **Java server**, which processes them and uses **MySQL** for persistent data.
 
+## My Contributions
+
+- Worked on JavaFX report screens and shared report data models for subscriber activity and visit times. [Client report controller](Assignment3/PROJECT/BistroClient/src/guiControllers/TimeReportController.java) · [Server report logic](Assignment3/PROJECT/BistroServer/src/logicControllers/ReportsController.java)
+- Updated the table check-in flows for guests arriving with a reservation or from the waiting list. [Reservation check-in](Assignment3/PROJECT/BistroClient/src/guiControllers/GetTableFromReservation_BController.java) · [Waiting-list check-in](Assignment3/PROJECT/BistroClient/src/guiControllers/GetTableFromWaiting_BController.java)
+
 ## Final submission
 
 | Location | Contents |
